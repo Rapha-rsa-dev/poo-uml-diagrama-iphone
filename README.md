@@ -6,9 +6,4 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 Lançamento iPhone 2017
 
 
-# Diagramação da representação em UML
-
-Feito na ferramenta [drawio](https://www.drawio.com/).
-
-![Diagram](diagram/dio_uml_iphone.drawio.png)
 
